@@ -1,3 +1,3 @@
 # Entrega
-Sistema simples de entrega com java OO
-Simple sistem of delivered with Java OO.
+Um Sistema simples de entrega com java OO
+A Simple system of delivery with Java OO.
